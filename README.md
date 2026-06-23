@@ -14,7 +14,7 @@ https://email-spam-classifier-zixy.streamlit.app/
 * Multinomial Naive Bayes Model
 * Interactive Streamlit interface
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 * Python
 * Streamlit
